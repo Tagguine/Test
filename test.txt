@@ -4,4 +4,4 @@ merci
 
 tu as raison
 
-si tout pass bien vérifier pourquoi le test ne marche pas
+si tout passe bien vérifier pourquoi le test ne marche pas
